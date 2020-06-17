@@ -154,6 +154,10 @@
     "cl-db": {
         "en": "Oracle11g, MySQL, SQL server, PostgreSQL.",
         "es": "Oracle11g, MySQL, SQL server, PostgreSQL."},
+    "cl-dep": {
+        "en": "Maven, Gradle, Ant.",
+        "es": "Maven, Gradle, Ant."
+    },
     "cl-xsl": {
         "en": "xml, xsl.",
         "es": "xml, xsl."
@@ -165,6 +169,18 @@
     "cl-js": {
         "en": "JavaScript, jQuery, bootstrap, Angular TypeScript.",
         "es": "JavaScript, jQuery, bootstrap, Angular TypeScript."
+    },
+    "cl-ver": {
+        "en": "Git, SVN.",
+        "es": "Git, SVN."
+    },
+    "cl-tm": {
+        "en": "Redmine, JIRA.",
+        "es": "Redmine, JIRA."
+    },
+    "cl-test": {
+        "en": "JUnit.",
+        "es": "JUnit."
     },
     "cl-uml": {
         "en": "UML.",
