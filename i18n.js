@@ -35,6 +35,10 @@
         "en": "OTHER INTERESTING FACTS",
         "es": "OTROS DATOS"
     },
+    "contact":{
+	"en": "CONTACT",
+        "es": "CONTACTO"  
+    },
     "first-name": {
         "en": "First name:",
         "es": "Nombre:"
