@@ -75,6 +75,24 @@ img{
 	width:3em;
 	height:2em;
 }
+.contact div {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.contact img {
+    width: 50px;
+    margin-bottom: .5em;
+}
+
+.contact a {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 1.25em;
+    margin: .5em;
+}
 /*
 .labels{
 	float:left;
