@@ -19,6 +19,12 @@ li{
 	font-family:Lucida Sans Unicode;
 	padding-top:1em;
 }
+li:nth-child(even){
+	background: #CCC;
+}
+li:nth-child(odd){
+	background: #FFF;
+}
 @media screen and (max-width: 500px) {
   .header a {
     float: none;
