@@ -41,7 +41,7 @@
     },
     "privacy":{
 	 "en": "PRIVACY POLICY",
-	 "es": "POLÍTICA DE PRIVACIDAD"
+	 "es": "POLITICA DE PRIVACIDAD"
     },
     "first-name": {
         "en": "First name:",
