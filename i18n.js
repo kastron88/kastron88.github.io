@@ -39,6 +39,10 @@
 	"en": "CONTACT",
         "es": "CONTACTO"  
     },
+    "privacy":{
+	 "en": "PRIVACY POLICY",
+	 "es": "POLÍTICA DE PRIVACIDAD"
+    }
     "first-name": {
         "en": "First name:",
         "es": "Nombre:"
